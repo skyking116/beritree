@@ -1,4 +1,4 @@
-ROM scratch
+FROM scratch
 
 MAINTAINER https://github.com/CentOS/sig-cloud-instance-images
 
